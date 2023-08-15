@@ -8,3 +8,5 @@ I am an overall creative person that values visuals and smooth and efficient fun
 - 🌱 I’m currently learning web and mobile development
 - 🤔 I’m looking for tips on interview preparation
 - 📫 Please Contact me: renejsanger@gmail.com
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=renesanger)
