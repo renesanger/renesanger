@@ -10,7 +10,7 @@ I am an overall creative person that values visuals and smooth and efficient fun
 - 🌱 I’m currently learning web and mobile development
 - 🤔 I’m looking for tips on interview preparation
 - 📫 Please Contact me: renejsanger@gmail.com
-- [:globe_with_meridians: my LinkedIn Profile](https://www.linkedin.com/in/renesanger/)
+- [:globe_with_meridians: My LinkedIn Profile](https://www.linkedin.com/in/renesanger/)
 
 ### Language and Tools
 
