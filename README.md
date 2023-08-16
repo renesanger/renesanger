@@ -12,7 +12,7 @@ I am an overall creative person that values visuals and smooth and efficient fun
 - 📫 Please Contact me: renejsanger@gmail.com
 - [:globe_with_meridians: My LinkedIn Profile](https://www.linkedin.com/in/renesanger/)
 
-### Language and Tools
+### Languages and Tools
 
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="react" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
