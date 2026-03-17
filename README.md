@@ -1,16 +1,17 @@
-### Hello, I'm Rene Sanger 👋
+### Rene Sanger 👋
 
-I am a software engineer and aspiring mobile developer based in Brooklyn, New York. I enjoy learning languages and frameworks like React and React Native, as well as Swift for mobile development. I am most interested in building beautiful and functional applications that help people automate everyday life from scheduling apps to apps that manage your finances. 
+Software Engineer focused on building high-quality web and mobile applications with a strong emphasis on performance, scalability, and clean user experience.
 
-I have worked as a full-stack developer using Microsoft technologies such as C#, .Net, Microsoft SQL Server, and Azure for large enterprise companies in the transportation and insurance sector.
+I specialize in full-stack development using C#, .NET, SQL Server, and Azure, with growing expertise in modern JavaScript frameworks like React and React Native. I also have experience with Swift for iOS development.
 
-I am an overall creative person that values visuals and smooth and efficient functionality. I am currently familiarizing myself with Autodesk Maya (3D Animation Software) and I am highly interested in photography and music performance.
+I’m particularly interested in fintech, productivity, and consumer-facing applications—building products that simplify workflows and create real value for users.
 
-- 🔭 I’m currently working on mastering Javascript with React/MERN
-- 🌱 I’m currently learning web and mobile development
-- 🤔 I’m looking for tips on interview preparation
-- 📫 Please Contact me: renejsanger@gmail.com
-- :globe_with_meridians: Visit my [personal portfolio website](https://renesanger.github.io/) and [LinkedIn Profile](https://www.linkedin.com/in/renesanger/)
+- 🔭 Currently building and refining full-stack and real-time applications
+- 🌱 Expanding expertise in React, system design, and mobile development
+- 🤔 Seeking software engineering opportunities (full-stack, mobile, or backend-focused)
+- 📫 Please Contact me: renesanger.dev@gmail.com
+- :globe_with_meridians: Visit my [personal portfolio website](https://renesanger.github.io/)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/renesanger/)
 
 ### Languages and Tools
 
